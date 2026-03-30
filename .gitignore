@@ -1,0 +1,10 @@
+data/                                                                         
+models/*.pt     
+models/*.pth
+models/pretrain*
+models/sft*
+__pycache__/                                                                  
+*.pyc
+.env                                                                          
+pip_cache/      
+*.log
